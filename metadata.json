@@ -1,0 +1,7 @@
+{
+  "name": "Bento Start - Your Daily Dashboard",
+  "description": "A minimalist, customizable bento-grid start page for managing daily links, search, and news with AI-powered insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
